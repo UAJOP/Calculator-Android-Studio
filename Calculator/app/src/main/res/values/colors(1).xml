@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundLight">#FFFFFF</color>
+    <color name="buttonBackgroundLight">#ECECEC</color>
+    <color name="buttonTextLight">#000000</color>
+    <color name="backgroundDark">#1E1E1E</color>
+    <color name="buttonBackgroundDark">#323232</color>
+    <color name="buttonTextDark">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="orange">#FFA500</color>
+    <color name="darkGray">#444444</color>
+    <color name="lightGray">#CCCCCC</color>
+    <color name="buttonBlue">#2196F3</color>
+    <color name="buttonRed">#FF0000</color>
+    <color name="background">#212121</color>
+    <color name="buttonBackground">#333333</color>
+    <color name="textColorPrimary">@color/white</color>
+    <color name="textColorSecondary">#FFA500</color>
+</resources>
